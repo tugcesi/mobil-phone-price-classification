@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.json
+*.xlsx
+
+# Model files
+*.h5
+*.pkl
+
+# IDE files
+*.idea/
+*.vscode/
+
+# Logs
+*.log
+
+# Environment variables
+.env
